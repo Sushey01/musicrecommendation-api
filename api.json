@@ -1,0 +1,51 @@
+[
+  {
+    "id": "song1",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "suggestedBy": "Kushal"
+  },
+  {
+    "id": "song2",
+    "title": "Gajalu Ti thula",
+    "artist": "Narayan Gopal",
+    "suggestedBy": "Kushal"
+  },
+  {
+    "id": "song3",
+    "title": "National Anthem",
+    "artist": "Kavi Pradeep",
+    "suggestedBy": "Sandip"
+  },
+  {
+    "id": "song4",
+    "title": "Tum Hi Ho",
+    "artist": "Arjit Singh",
+    "suggestedBy": "Sandip"
+  },
+  {
+    "id": "song5",
+    "title": "Hawa Jastai Malai",
+    "artist": "John Chamling",
+    "suggestedBy": "Susan"
+  },
+  {
+    "id": "song6",
+    "title": "Pratigya le",
+    "artist": "Adrian Dewan",
+    "suggestedBy": "Susan"
+  },
+
+  {
+    "id": "song7",
+    "title": "Tum Hi Ho",
+    "artist": "Arijit Singh",
+    "suggestedBy": "Ashish"
+  },
+  {
+    "id": "song8",
+    "title": "k garu",
+    "artist": "John Chamling",
+    "suggestedBy": "Ashish"
+  }
+]
